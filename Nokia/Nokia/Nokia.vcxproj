@@ -155,6 +155,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Nokia.cpp" />
+    <ClCompile Include="TableCVS.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TableCVS.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
